@@ -1,0 +1,4 @@
+#Thu Jan 11 00:03:04 MST 2018
+base.0=C\:\\Users\\AlanJ\\Desktop\\ECE 301\\Lab 1\\FillerCreepForAndroid\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
